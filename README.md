@@ -2,7 +2,8 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning cpp,algorithm，operation，Linux，
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me qq:1300504419
+- 📫 How to reach me wx:15679195296
+
 
 <!---
 Cypresslxl/Cypresslxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
